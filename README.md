@@ -1,4 +1,4 @@
-### Hey, I'm Aislã!  I'm Front-end Developer!  😁
+### Hey, I'm Aislã!😁
 
 <div align="center">
   <a href="https://github.com/aisl1n">
