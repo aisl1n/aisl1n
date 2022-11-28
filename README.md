@@ -3,7 +3,7 @@
 ## Software Developer
 
 ### I'm 23, lover of code and new technologies, always focus on web development and improve my soft and hard skills.
-### Also, I'm student at ![Unisinos](https://unisinos.br/), studing   ![Systems for internet](https://ead.unisinos.br/cursos-graduacao/sistemas-para-internet).
+### Also, I'm student at [Unisinos](https://unisinos.br/), studing   [Systems for internet](https://ead.unisinos.br/cursos-graduacao/sistemas-para-internet).
 
 🌎I’m currently living in Rio Grande do Sul, Brazil<br>🧠 I’m learning Advanced Javascript, web and test frameworks<br>🕹 I love sports and E-sports and just play some games<br>
 
