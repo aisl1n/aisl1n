@@ -1,4 +1,4 @@
-# Hey, I'm Aislã!😁
+# Hey, I'm Aislã!
 
 ## Software Developer
 
