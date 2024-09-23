@@ -1,10 +1,43 @@
-# Hello and Welcome!, I'm Aislã
+<h1 align="left">What's up? I'm Aislã</h1>
 
- Passionate web developer and QA with a strong interest in technology. Experienced in both front-end and back-end development, committed to software quality. Continuously seeking to enhance my skills and knowledge in automated testing and best development practices.
+###
 
-- 🌎 I'm currently working in a ecommerce as a quality assurance with focus on automation
-- 🎮 I'm interested in games (development and playing)
-- 🎸 I'm a bit of a musician too
+<p align="left">Passionate web developer with a keen eye for detail and a focus on creating seamless user experiences. Experienced in both front-end and back-end development, with a strong commitment to delivering high-quality software. Always eager to learn, I'm constantly refining my skills in automated testing and modern development practices to stay ahead in the ever-evolving tech world.</p>
 
-# 💻 Some Skills
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Cypress](	https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Docker<br>🎯 Goals: To build scalable and intuitive web apps that users love<br>🤡 Fun fact: I can spend hours tweaking a single CSS property for that perfect pixel alignment 👨‍💻</p>
+
+###
+
+<h2 align="left">My skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
